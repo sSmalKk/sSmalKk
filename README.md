@@ -100,7 +100,6 @@
 - **Book Library API**  
   *A RESTful API for managing a book library, implemented with C#.*  
   [Repository](https://github.com/sSmalKk/BookLibrary)
-https://github.com/sSmalKk/CapitalismBattleRoyale
 ---
 
 <h2>GitHub Stats</h2>
