@@ -53,30 +53,79 @@
 </p>
 
 ---
-
-<h2>Projects</h2>
-Here are some of my notable projects:
-
-- **Organizador de PDFs**  
-  *Python script that organizes PDF files into folders based on indices.*  
-  [Repository](https://github.com/sSmalKk/organizador-pdfs)
-
+### Highlighted Projects
 - **WhatsApp Modular Bot**  
-  *Developed with Node.js and MongoDB, supporting custom commands.*  
+  *A modular bot for WhatsApp built using Node.js and MongoDB, featuring custom commands for automation.*  
   [Repository](https://github.com/sSmalKk/whatsapp-modular-bot)
 
-- **Real-time Online Game Server**  
-  *Built with Node.js, MongoDB, and Socket.io for real-time integration.*  
-  [Repository](https://github.com/sSmalKk/online-game-server)
+- **Capitalism Battle Royale**  
+  *A backend system and mechanics for a battle royale-style game focused on capitalism and resource management.*  
+  [Repository](https://github.com/sSmalKk/CapitalismBattleRoyale)
+---
 
-- **Local PDF Manager**  
-  *Advanced application using ExcelJS for data integration and automated organization.*  
-  [Repository](https://github.com/sSmalKk/local-pdf-manager)
 
-- **Cosplay Registration System**  
-  *Enhanced PDF manager with image uploads and command controls.*  
-  [Repository](https://github.com/sSmalKk/cosplay-registration-system)
+### Automation and Bots
+- **WhatsApp Modular Bot**  
+  *A modular bot for WhatsApp built using Node.js and MongoDB, featuring custom commands for automation.*  
+  [Repository](https://github.com/sSmalKk/whatsapp-modular-bot)
 
+- **Receipt Manager Bot**  
+  *A Node.js and Python-based bot for managing and organizing receipts through WhatsApp interactions.*  
+  [Repository](https://github.com/sSmalKk/receipt-manager-bot)
+
+---
+
+### Development Tools and Libraries
+- **Organizador de PDFs**  
+  *A Python script to organize PDF files into structured folders based on indices.*  
+  [Repository](https://github.com/sSmalKk/organizador-pdfs)
+
+- **Market Backend**  
+  *Backend services for a marketplace, developed with Python and Node.js.*  
+  [Repository](https://github.com/sSmalKk/MarketBackend)
+
+- **ExcelJS Projects**  
+  *Automated solutions leveraging ExcelJS for data manipulation and integration.*  
+  [Repository](https://github.com/sSmalKk/exceljs-tools)
+
+---
+
+### Gaming and Interactive Applications
+- **SandboxpediaENGINE**  
+  *A voxel-based game engine inspired by Minecraft, developed using Python and OpenGL.*  
+  [Repository](https://github.com/sSmalKk/SandboxpediaENGINE)
+
+
+---
+
+### Web Development and UI
+- **Portfolio Website**  
+  *A personal portfolio highlighting skills and projects.*  
+  [Repository](https://github.com/sSmalKk/Portifolio)
+
+---
+
+### APIs and Backend Services
+- **Book Library API**  
+  *A RESTful API for managing a book library, implemented with C#.*  
+  [Repository](https://github.com/sSmalKk/BookLibrary)
+https://github.com/sSmalKk/CapitalismBattleRoyale
+---
+
+<h2>GitHub Stats</h2>
+<p align="center">
+  <img width="380px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sSmalKk&layout=compact&theme=radical" alt="Top Languages">
+  <img width="380px" src="https://github-readme-stats.vercel.app/api?username=sSmalKk&show_icons=true&theme=radical" alt="GitHub Stats">
+</p>
+
+---
+
+<h2>Contact</h2>
+- **Email:** dantaswebdesign77@gmail.com  
+- **Phone:** +55 (61) 9.8159-4849 | +55 (61) 9.8195-5443  
+- **Portfolio:** [dantastec.netlify.app](https://dantastec.netlify.app)  
+- **GitHub:** [github.com/sSmalKk](https://github.com/sSmalKk)  
+- **LinkedIn:** [linkedin.com/in/gustavo-dantas-guimarães](https://www.linkedin.com/in/gustavo-dantas-guimarães)    adiciona esse uiltimo e gg
 ---
 
 <h2>GitHub Stats</h2>
