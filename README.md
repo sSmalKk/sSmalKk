@@ -10,10 +10,10 @@
 ---
 
 <h2>About Me</h2>
-- 🎓 **Education:** Degree in Systems Analysis and Development; Technical degree in Computing.  
-- 💼 **Experience:** Partnered on projects at Espaço Multiplicidades (2019-2023); roles in technical support and web design.  
-- 🌐 **Portfolio:** [dantastec.netlify.app](https://dantastec.netlify.app)  
-- 📫 **Contact:** dantaswebdesign77@gmail.com | [LinkedIn](https://www.linkedin.com/in/gustavo-dantas-guimarães)  
+- 🎓 **Education:** Degree in Systems Analysis and Development; Technical degree in Computing.  </br>
+- 💼 **Experience:** Partnered on projects at Espaço Multiplicidades (2019-2023); roles in technical support and web design.    </br>
+- 🌐 **Portfolio:** [dantastec.netlify.app](https://dantastec.netlify.app)    </br>
+- 📫 **Contact:** dantaswebdesign77@gmail.com | [LinkedIn](https://www.linkedin.com/in/gustavo-dantas-guimarães)    </br>
 
 ---
 
