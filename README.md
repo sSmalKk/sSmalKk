@@ -137,8 +137,8 @@ https://github.com/sSmalKk/CapitalismBattleRoyale
 ---
 
 <h2>Contact</h2>
-- **Email:** dantaswebdesign77@gmail.com  
-- **Phone:** +55 (61) 9.8159-4849 | +55 (61) 9.8195-5443  
-- **Portfolio:** [dantastec.netlify.app](https://dantastec.netlify.app)  
-- **GitHub:** [github.com/sSmalKk](https://github.com/sSmalKk)  
-- **LinkedIn:** [linkedin.com/in/gustavo-dantas-guimarães](https://www.linkedin.com/in/gustavo-dantas-guimarães)  
+- **Email:** dantaswebdesign77@gmail.com  </br>
+- **Phone:** +55 (61) 9.8159-4849 | +55 (61) 9.8195-5443  </br>
+- **Portfolio:** [dantastec.netlify.app](https://dantastec.netlify.app)  </br>
+- **GitHub:** [github.com/sSmalKk](https://github.com/sSmalKk)  </br>
+- **LinkedIn:** [linkedin.com/in/gustavo-dantas-guimarães](https://www.linkedin.com/in/gustavo-dantas-guimarães)  </br>
