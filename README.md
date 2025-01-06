@@ -67,8 +67,8 @@
 
 <h2>Status do GitHub:</h2>
 <p align="center">
-  <img width="380px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sSmalKk&layout=compact&theme=radical">
-  <img width="380px" src="https://github-readme-stats.vercel.app/api?username=sSmalKk&show_icons=true&theme=radical">
+  <img width="380px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssmalkk&layout=compact&theme=radical">
+  <img width="380px" src="https://github-readme-stats.vercel.app/api?username=ssmalkk&show_icons=true&theme=radical">
 </p>
 
 ---
