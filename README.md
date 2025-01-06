@@ -61,13 +61,15 @@
 - **Capitalism Battle Royale**  
   *A backend system and mechanics for a battle royale-style game focused on capitalism and resource management.*  
   [Repository](https://github.com/sSmalKk/CapitalismBattleRoyale)
+  
+- **ExcelJS Projects**  
+  *Automated solutions leveraging ExcelJS for data manipulation and integration.*  
+  [Repository](https://github.com/sSmalKk/exceljs-tools)
+
 ---
 
 
 ### Automation and Bots
-- **WhatsApp Modular Bot**  
-  *A modular bot for WhatsApp built using Node.js and MongoDB, featuring custom commands for automation.*  
-  [Repository](https://github.com/sSmalKk/whatsapp-modular-bot)
 
 - **Receipt Manager Bot**  
   *A Node.js and Python-based bot for managing and organizing receipts through WhatsApp interactions.*  
@@ -83,17 +85,6 @@
 - **Market Backend**  
   *Backend services for a marketplace, developed with Python and Node.js.*  
   [Repository](https://github.com/sSmalKk/MarketBackend)
-
-- **ExcelJS Projects**  
-  *Automated solutions leveraging ExcelJS for data manipulation and integration.*  
-  [Repository](https://github.com/sSmalKk/exceljs-tools)
-
----
-
-### Gaming and Interactive Applications
-- **SandboxpediaENGINE**  
-  *A voxel-based game engine inspired by Minecraft, developed using Python and OpenGL.*  
-  [Repository](https://github.com/sSmalKk/SandboxpediaENGINE)
 
 
 ---
@@ -121,24 +112,11 @@ https://github.com/sSmalKk/CapitalismBattleRoyale
 ---
 
 <h2>Contact</h2>
-- **Email:** dantaswebdesign77@gmail.com  
-- **Phone:** +55 (61) 9.8159-4849 | +55 (61) 9.8195-5443  
-- **Portfolio:** [dantastec.netlify.app](https://dantastec.netlify.app)  
-- **GitHub:** [github.com/sSmalKk](https://github.com/sSmalKk)  
-- **LinkedIn:** [linkedin.com/in/gustavo-dantas-guimarães](https://www.linkedin.com/in/gustavo-dantas-guimarães)    adiciona esse uiltimo e gg
----
-
-<h2>GitHub Stats</h2>
-<p align="center">
-  <img width="380px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sSmalKk&layout=compact&theme=radical" alt="Top Languages">
-  <img width="380px" src="https://github-readme-stats.vercel.app/api?username=sSmalKk&show_icons=true&theme=radical" alt="GitHub Stats">
-</p>
-
----
-
-<h2>Contact</h2>
 - **Email:** dantaswebdesign77@gmail.com  </br>
 - **Phone:** +55 (61) 9.8159-4849 | +55 (61) 9.8195-5443  </br>
 - **Portfolio:** [dantastec.netlify.app](https://dantastec.netlify.app)  </br>
 - **GitHub:** [github.com/sSmalKk](https://github.com/sSmalKk)  </br>
 - **LinkedIn:** [linkedin.com/in/gustavo-dantas-guimarães](https://www.linkedin.com/in/gustavo-dantas-guimarães)  </br>
+---
+
+
