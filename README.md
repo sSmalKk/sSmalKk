@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://via.placeholder.com/800x300?text=Gustavo+Dantas+Guimar%C3%A3es" alt="Banner Placeholder" width="800px">
+  <img src="https://www.behance.net/gallery/216203371/GITHUB-BANNER/modules/1230946963" alt="Banner Placeholder" width="800px">
 </p>
 
 ---
