@@ -54,52 +54,71 @@
 
 ---
 ### Highlighted Projects
-- **WhatsApp Modular Bot**  
-  *A modular bot for WhatsApp built using Node.js and MongoDB, featuring custom commands for automation.*  
-  [Repository](https://github.com/sSmalKk/whatsapp-modular-bot)
 
-- **Capitalism Battle Royale**  
-  *A backend system and mechanics for a battle royale-style game focused on capitalism and resource management.*  
-  [Repository](https://github.com/sSmalKk/CapitalismBattleRoyale)
-  
-- **ExcelJS Projects**  
-  *Automated solutions leveraging ExcelJS for data manipulation and integration.*  
-  [Repository](https://github.com/sSmalKk/exceljs-tools)
+- **Worldscape Clicker**
+  *Online co-op clicker: React + TypeScript + Vite on the front, Supabase (Postgres, RLS, realtime) as the authoritative backend, planet rendered on a 3D globe.*
+  [Repository](https://github.com/sSmalKk/worldscape-clicker)
 
----
+- **Project Operations Dashboard**
+  *Collaborative kanban with workspaces, invite links, role-based permissions, templates and notifications. TanStack Start, React, TypeScript, Supabase.*
+  [Repository](https://github.com/sSmalKk/project-operations-dashboard)
 
-
-### Automation and Bots
-
-- **Receipt Manager Bot**  
-  *A Node.js and Python-based bot for managing and organizing receipts through WhatsApp interactions.*  
-  [Repository](https://github.com/sSmalKk/receipt-manager-bot)
+- **WhatsApp Stock Bot**
+  *Inventory control driven by WhatsApp commands, with an Excel workbook as the source of truth. Layered into command handlers, executors and a response builder. Node.js.*
+  [Repository](https://github.com/sSmalKk/whatsapp-stock-bot)
 
 ---
 
-### Development Tools and Libraries
-- **Organizador de PDFs**  
-  *A Python script to organize PDF files into structured folders based on indices.*  
-  [Repository](https://github.com/sSmalKk/organizador-pdfs)
+### Automation and Data
 
-- **Market Backend**  
-  *Backend services for a marketplace, developed with Python and Node.js.*  
-  [Repository](https://github.com/sSmalKk/MarketBackend)
+- **Invoice PDF to Excel**
+  *Python scripts that parse invoices and bank statements out of PDF and into Excel, then sort the files by issuer and date. pdfplumber, PyPDF2, pandas.*
+  [Repository](https://github.com/sSmalKk/invoice-pdf-to-excel)
 
+- **Time Tracker**
+  *Work-hour logging with a local SQLite store. Python.*
+  [Repository](https://github.com/sSmalKk/time-tracker)
 
----
-
-### Web Development and UI
-- **Portfolio Website**  
-  *A personal portfolio highlighting skills and projects.*  
-  [Repository](https://github.com/sSmalKk/Portifolio)
+- **Text Detector**
+  *Text detection from images. TypeScript.*
+  [Repository](https://github.com/sSmalKk/text-detector)
 
 ---
 
 ### APIs and Backend Services
-- **Book Library API**  
-  *A RESTful API for managing a book library, implemented with C#.*  
-  [Repository](https://github.com/sSmalKk/BookLibrary)
+
+- **Todo MVC MongoDB**
+  *REST API for tasks in MVC architecture, with authentication strategies, seeders, tests and Docker setup. Node.js, Express, MongoDB.*
+  [Repository](https://github.com/sSmalKk/todo-mvc-mongodb)
+
+---
+
+### Tools and Interfaces
+
+- **Jarvis AI System**
+  *Command center UI for automation agents. React, TypeScript, Vite.*
+  [Repository](https://github.com/sSmalKk/jarvis-ai-system)
+
+- **Floating Clock**
+  *Always-on-top desktop clock with timezone support. Python, tkinter.*
+  [Repository](https://github.com/sSmalKk/floating-clock)
+
+---
+
+### Games and Mods
+
+- **Minecraft Handcuff Mod**
+  *Handcuff mod for Minecraft, with original Blockbench models and animations. Java, Minecraft Forge.*
+  [Repository](https://github.com/sSmalKk/minecraft-handcuff-mod)
+
+---
+
+### Learning
+
+- **JavaScript freeCodeCamp**
+  *Solutions to the freeCodeCamp JavaScript Algorithms and Data Structures challenges.*
+  [Repository](https://github.com/sSmalKk/javascript-freecodecamp)
+
 ---
 
 <h2>GitHub Stats</h2>
