@@ -121,6 +121,21 @@
 
 ---
 
+### Planned
+
+Specified, not yet implemented. The scope is written down before the first line
+of code, so these don't drift the way the earlier attempts did.
+
+- **Marketplace Fullstack**
+  *Catalog, search, cart, orders and an admin area, as one coherent product. Next.js + TypeScript on the front, NestJS or FastAPI over PostgreSQL behind a Service/Repository split.*
+  [Specification](https://github.com/sSmalKk/marketplace-fullstack)
+
+- **Enterprise API**
+  *Backend only. Auth, role-based authorization, pagination and filtering resolved in SQL, transactions, migrations, structured logging, tests in CI and generated OpenAPI. FastAPI + PostgreSQL, or NestJS.*
+  [Specification](https://github.com/sSmalKk/enterprise-api)
+
+---
+
 <h2>GitHub Stats</h2>
 <p align="center">
   <img width="380px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sSmalKk&layout=compact&theme=radical" alt="Top Languages">
