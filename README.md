@@ -71,6 +71,11 @@
 
 ### Automation and Data
 
+- **ExcelJS Styling**
+  *Spreadsheet generation with per-cell styling — fonts, fills, borders, alignment, formulas and merged headers. TypeScript, ExcelJS.*
+  [Repository](https://github.com/sSmalKk/exceljs-styling)
+
+
 - **Invoice PDF to Excel**
   *Python scripts that parse invoices and bank statements out of PDF and into Excel, then sort the files by issuer and date. pdfplumber, PyPDF2, pandas.*
   [Repository](https://github.com/sSmalKk/invoice-pdf-to-excel)
@@ -107,6 +112,11 @@
 
 ### Games and Mods
 
+- **UNO Online**
+  *Full UNO card game with online multiplayer: lobby, room codes, waiting room and a real-time table. React, TypeScript, Supabase.*
+  [Repository](https://github.com/sSmalKk/uno-online)
+
+
 - **Minecraft Handcuff Mod**
   *Handcuff mod for Minecraft, with original Blockbench models and animations. Java, Minecraft Forge.*
   [Repository](https://github.com/sSmalKk/minecraft-handcuff-mod)
@@ -118,6 +128,14 @@
 - **JavaScript freeCodeCamp**
   *Solutions to the freeCodeCamp JavaScript Algorithms and Data Structures challenges.*
   [Repository](https://github.com/sSmalKk/javascript-freecodecamp)
+
+---
+
+### Web
+
+- **Portfolio 3D**
+  *Personal portfolio built around a 3D scene: hero, projects, blog, about and contact. React, TypeScript, Three.js.*
+  [Repository](https://github.com/sSmalKk/portfolio-3d)
 
 ---
 
