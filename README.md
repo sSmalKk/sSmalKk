@@ -1,156 +1,131 @@
 <h1 align="center">Gustavo Dantas Guimarães</h1>
 <p align="center">
-  <b>Backend Specialist | Full-Stack Developer | Automation Enthusiast</b>
+  <b>Full-Stack Developer · Backend & Automation</b>
 </p>
 
 <p align="center">
-  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/16da17216203371.677c49ba2796a.png" alt="Banner Placeholder" width="800px">
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/16da17216203371.677c49ba2796a.png" alt="Banner" width="800px">
 </p>
 
 ---
 
-<h2>About Me</h2>
-- 🎓 **Education:** Degree in Systems Analysis and Development; Technical degree in Computing.  </br>
-- 🌐 **Portfolio:** [dantastec.netlify.app](https://dantastec.netlify.app)    </br>
-- 📫 **Contact:** dantaswebdesign77@gmail.com | [LinkedIn](https://www.linkedin.com/in/gustavo-dantas-guimarães)    </br>
+<h2>About</h2>
+
+Degree in Systems Analysis and Development, technical degree in Computing.
+
+I build applications where the hard part is the rules, not the screens —
+permissions that hold, state that stays consistent across clients, and
+processes that run without someone watching.
+
+- 🌐 **Portfolio:** [dantastec.netlify.app](https://dantastec.netlify.app)
+- 📫 **Email:** dantaswebdesign77@gmail.com
+- 💼 **LinkedIn:** [gustavo-dantas-guimarães](https://www.linkedin.com/in/gustavo-dantas-guimarães)
 
 ---
 
-<h2>Skills</h2>
+<h2>What I do, and where to check it</h2>
 
-<h3>Languages:</h3>
+Every claim below points to a public repository. Click and read the code.
+
+| | | |
+|---|---|---|
+| **Authorization that isn't `if (isAdmin)`** | Roles, workspace membership and invite links, enforced by Row Level Security in Postgres — so the rule can't be bypassed by a client | [project-operations-dashboard](https://github.com/sSmalKk/project-operations-dashboard) |
+| **Realtime, multiplayer state** | Shared game state across clients with an authoritative backend, rooms and turn logic | [worldscape-clicker](https://github.com/sSmalKk/worldscape-clicker) · [uno-online](https://github.com/sSmalKk/uno-online) |
+| **Automation and integration** | A WhatsApp bot with layered command handling — parser, executors, response builder — over a spreadsheet as the data source | [whatsapp-stock-bot](https://github.com/sSmalKk/whatsapp-stock-bot) |
+| **Data extraction / ETL** | Invoices and bank statements pulled out of PDF and into structured Excel, then sorted by issuer and date | [invoice-pdf-to-excel](https://github.com/sSmalKk/invoice-pdf-to-excel) |
+| **3D on the web** | Three.js scenes driving real interfaces, not decoration | [portfolio-3d](https://github.com/sSmalKk/portfolio-3d) · [worldscape-clicker](https://github.com/sSmalKk/worldscape-clicker) |
+| **Java** | Minecraft Forge mod with original Blockbench models and animations | [minecraft-handcuff-mod](https://github.com/sSmalKk/minecraft-handcuff-mod) |
+| **Python** | Desktop tooling and document processing | [floating-clock](https://github.com/sSmalKk/floating-clock) · [invoice-pdf-to-excel](https://github.com/sSmalKk/invoice-pdf-to-excel) |
+| **Fundamentals** | Algorithms and data structures, worked through rather than copied | [javascript-freecodecamp](https://github.com/sSmalKk/javascript-freecodecamp) |
+
+---
+
+<h2>Stack</h2>
+
+<h3>Languages</h3>
 <p align="center">
-  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
 </p>
 
-<h3>Databases:</h3>
+<h3>Frontend</h3>
 <p align="center">
-  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
-  <img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white">
-</p>
-
-<h3>Frameworks & Libraries:</h3>
-<p align="center">
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
   <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <img alt="Material-UI" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white">
-  <img alt="Express.js" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white">
-  <img alt="Socket.io" src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white">
+  <img alt="TanStack" src="https://img.shields.io/badge/TanStack_Start-FF4154?style=for-the-badge&logo=reactquery&logoColor=white">
+  <img alt="Vite" src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white">
+  <img alt="Three.js" src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white">
   <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
 </p>
 
-<h3>Tools:</h3>
+<h3>Backend &amp; Data</h3>
 <p align="center">
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-  <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
-  <img alt="VS Code" src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white">
-  <img alt="ExcelJS" src="https://img.shields.io/badge/ExcelJS-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+  <img alt="Express" src="https://img.shields.io/badge/Express-404D59?style=for-the-badge&logo=express&logoColor=white">
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img alt="Supabase" src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white">
+  <img alt="pandas" src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
 </p>
 
 ---
-### Highlighted Projects
 
-- **Worldscape Clicker**
-  *Online co-op clicker: React + TypeScript + Vite on the front, Supabase (Postgres, RLS, realtime) as the authoritative backend, planet rendered on a 3D globe.*
-  [Repository](https://github.com/sSmalKk/worldscape-clicker)
+<h2>Projects</h2>
 
-- **Project Operations Dashboard**
-  *Collaborative kanban with workspaces, invite links, role-based permissions, templates and notifications. TanStack Start, React, TypeScript, Supabase.*
-  [Repository](https://github.com/sSmalKk/project-operations-dashboard)
+<h3>Applications</h3>
 
-- **WhatsApp Stock Bot**
-  *Inventory control driven by WhatsApp commands, with an Excel workbook as the source of truth. Layered into command handlers, executors and a response builder. Node.js.*
-  [Repository](https://github.com/sSmalKk/whatsapp-stock-bot)
+- **[Project Operations Dashboard](https://github.com/sSmalKk/project-operations-dashboard)** — collaborative kanban with workspaces, invite links, role-based permissions and templates. Permissions live in the database as Row Level Security, not in a middleware that a direct API call could skip. Ships with a [roadmap](https://github.com/sSmalKk/project-operations-dashboard/blob/main/ROADMAP.md) stating what is done and what is not.
+  `TanStack Start` `React` `TypeScript` `Supabase`
 
----
+- **[Worldscape Clicker](https://github.com/sSmalKk/worldscape-clicker)** — online co-op clicker. Shared resources and progression across players, with the server holding authority over state so a client can't invent its own numbers. Planet rendered on a 3D globe.
+  `React` `TypeScript` `Three.js` `Supabase`
 
-### Automation and Data
+- **[UNO Online](https://github.com/sSmalKk/uno-online)** — full UNO card game with online multiplayer: lobby, room codes, waiting room and a live table. Turn order, wild cards and draw stacking implemented as real rules, not as UI state.
+  `React` `TypeScript` `Supabase`
 
-- **ExcelJS Styling**
-  *Spreadsheet generation with per-cell styling — fonts, fills, borders, alignment, formulas and merged headers. TypeScript, ExcelJS.*
-  [Repository](https://github.com/sSmalKk/exceljs-styling)
+- **[Portfolio 3D](https://github.com/sSmalKk/portfolio-3d)** — personal portfolio built around a 3D scene, with projects, blog, about and contact.
+  `React` `TypeScript` `Three.js`
 
+- **[Jarvis AI System](https://github.com/sSmalKk/jarvis-ai-system)** — command center interface for automation agents.
+  `React` `TypeScript` `Vite`
 
-- **Invoice PDF to Excel**
-  *Python scripts that parse invoices and bank statements out of PDF and into Excel, then sort the files by issuer and date. pdfplumber, PyPDF2, pandas.*
-  [Repository](https://github.com/sSmalKk/invoice-pdf-to-excel)
+<h3>Automation &amp; Tooling</h3>
 
-- **Time Tracker**
-  *Work-hour logging with a local SQLite store. Python.*
-  [Repository](https://github.com/sSmalKk/time-tracker)
+- **[WhatsApp Stock Bot](https://github.com/sSmalKk/whatsapp-stock-bot)** — inventory control driven by WhatsApp messages, with an Excel workbook as the source of truth. Split into message processor, command handler, per-domain executors and a response builder, so adding a command doesn't mean touching the parser.
+  `Node.js` `Express` `whatsapp-web.js`
 
-- **Text Detector**
-  *Text detection from images. TypeScript.*
-  [Repository](https://github.com/sSmalKk/text-detector)
+- **[Invoice PDF to Excel](https://github.com/sSmalKk/invoice-pdf-to-excel)** — extracts invoices and bank statements from PDF into Excel, and files the documents by issuer and issue date.
+  `Python` `pdfplumber` `PyPDF2` `pandas`
 
----
+- **[ExcelJS Styling](https://github.com/sSmalKk/exceljs-styling)** — spreadsheet generation with per-cell control: fonts, fills, borders, alignment, formulas and merged headers.
+  `TypeScript` `ExcelJS`
 
-### APIs and Backend Services
+- **[Floating Clock](https://github.com/sSmalKk/floating-clock)** — always-on-top desktop clock with timezone support.
+  `Python` `tkinter`
 
-- **Todo MVC MongoDB**
-  *REST API for tasks in MVC architecture, with authentication strategies, seeders, tests and Docker setup. Node.js, Express, MongoDB.*
-  [Repository](https://github.com/sSmalKk/todo-mvc-mongodb)
+<h3>Games &amp; Mods</h3>
 
----
+- **[Minecraft Handcuff Mod](https://github.com/sSmalKk/minecraft-handcuff-mod)** — handcuff mod with original Blockbench models and animations, item registry and custom renderers.
+  `Java` `Minecraft Forge` `Blockbench`
 
-### Tools and Interfaces
+<h3>Fundamentals</h3>
 
-- **Jarvis AI System**
-  *Command center UI for automation agents. React, TypeScript, Vite.*
-  [Repository](https://github.com/sSmalKk/jarvis-ai-system)
-
-- **Floating Clock**
-  *Always-on-top desktop clock with timezone support. Python, tkinter.*
-  [Repository](https://github.com/sSmalKk/floating-clock)
+- **[JavaScript freeCodeCamp](https://github.com/sSmalKk/javascript-freecodecamp)** — algorithms, data structures, ES6, regular expressions and OOP challenges.
+  `JavaScript`
 
 ---
 
-### Games and Mods
+<h2>Planned</h2>
 
-- **UNO Online**
-  *Full UNO card game with online multiplayer: lobby, room codes, waiting room and a real-time table. React, TypeScript, Supabase.*
-  [Repository](https://github.com/sSmalKk/uno-online)
+Specified before written. The scope is closed on paper first, so these don't
+drift the way earlier attempts did — each repository holds the specification
+and says plainly that the code doesn't exist yet.
 
+- **[Marketplace Fullstack](https://github.com/sSmalKk/marketplace-fullstack)** — catalog, search, cart, orders and admin as one coherent product, over a Service/Repository split.
+  `Next.js` `TypeScript` `NestJS or FastAPI` `PostgreSQL`
 
-- **Minecraft Handcuff Mod**
-  *Handcuff mod for Minecraft, with original Blockbench models and animations. Java, Minecraft Forge.*
-  [Repository](https://github.com/sSmalKk/minecraft-handcuff-mod)
-
----
-
-### Learning
-
-- **JavaScript freeCodeCamp**
-  *Solutions to the freeCodeCamp JavaScript Algorithms and Data Structures challenges.*
-  [Repository](https://github.com/sSmalKk/javascript-freecodecamp)
-
----
-
-### Web
-
-- **Portfolio 3D**
-  *Personal portfolio built around a 3D scene: hero, projects, blog, about and contact. React, TypeScript, Three.js.*
-  [Repository](https://github.com/sSmalKk/portfolio-3d)
-
----
-
-### Planned
-
-Specified, not yet implemented. The scope is written down before the first line
-of code, so these don't drift the way the earlier attempts did.
-
-- **Marketplace Fullstack**
-  *Catalog, search, cart, orders and an admin area, as one coherent product. Next.js + TypeScript on the front, NestJS or FastAPI over PostgreSQL behind a Service/Repository split.*
-  [Specification](https://github.com/sSmalKk/marketplace-fullstack)
-
-- **Enterprise API**
-  *Backend only. Auth, role-based authorization, pagination and filtering resolved in SQL, transactions, migrations, structured logging, tests in CI and generated OpenAPI. FastAPI + PostgreSQL, or NestJS.*
-  [Specification](https://github.com/sSmalKk/enterprise-api)
+- **[Enterprise API](https://github.com/sSmalKk/enterprise-api)** — backend only. Auth, role-based authorization, pagination and filtering resolved in SQL, transactions, migrations, structured logging, tests in CI, generated OpenAPI.
+  `FastAPI or NestJS` `PostgreSQL` `Docker`
 
 ---
 
@@ -163,11 +138,8 @@ of code, so these don't drift the way the earlier attempts did.
 ---
 
 <h2>Contact</h2>
-- **Email:** dantaswebdesign77@gmail.com  </br>
-- **Phone:** +55 (61) 9.8159-4849 | +55 (61) 9.8195-5443  </br>
-- **Portfolio:** [dantastec.netlify.app](https://dantastec.netlify.app)  </br>
-- **GitHub:** [github.com/sSmalKk](https://github.com/sSmalKk)  </br>
-- **LinkedIn:** [linkedin.com/in/gustavo-dantas-guimarães](https://www.linkedin.com/in/gustavo-dantas-guimarães)  </br>
----
 
-
+- **Email:** dantaswebdesign77@gmail.com
+- **Phone:** +55 (61) 9.8159-4849
+- **Portfolio:** [dantastec.netlify.app](https://dantastec.netlify.app)
+- **LinkedIn:** [linkedin.com/in/gustavo-dantas-guimarães](https://www.linkedin.com/in/gustavo-dantas-guimarães)
