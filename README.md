@@ -72,70 +72,71 @@ Every claim below points to a public repository. Click and read the code.
 
 <h2>Projects</h2>
 
-> Esta lista é gerada a partir dos repositórios públicos — descrição e
-> tecnologias vêm do próprio repositório, nunca escritas duas vezes.
-> O mesmo dado alimenta **[dantastec.netlify.app](https://dantastec.netlify.app)**.
+> Generated from the public repositories — descriptions and technologies come
+> from the repository itself, never written twice. The same data feeds
+> **[dantastec.netlify.app](https://dantastec.netlify.app)**, which reads the
+> GitHub API straight from the browser.
 >
-> **✅ Pronto** · **🔨 Em andamento** · **📄 Especificação**
+> **✅ Done** · **🔨 In progress** · **📄 Specification**
 
 <h3>Applications</h3>
 
-- ✅ **[Portfolio 3D](https://github.com/sSmalKk/portfolio-3d)** — Portfólio pessoal construído em torno de uma cena 3D, com projetos, blog, sobre e contato
+- ✅ **[Portfolio 3D](https://github.com/sSmalKk/portfolio-3d)** — Personal portfolio built around a 3D scene, with projects, blog, about and contact
   `portfolio` `react` `threejs` `typescript` `vite`
 
-- 🔨 **[Project Operations Dashboard](https://github.com/sSmalKk/project-operations-dashboard)** — Kanban colaborativo com workspaces, convites e permissões por papel — permissões vivem no banco como RLS, não num middleware
+- 🔨 **[Project Operations Dashboard](https://github.com/sSmalKk/project-operations-dashboard)** — Collaborative kanban with workspaces, invites and role-based permissions — the rules live in the database as RLS, not in a middleware a direct call could skip
   `kanban` `postgresql` `rbac` `react` `rls`
 
-- ✅ **[ExcelJS Styling](https://github.com/sSmalKk/exceljs-styling)** — Geração de planilhas com controle por célula: fonte, preenchimento, bordas, alinhamento, fórmula e merge
+- ✅ **[ExcelJS Styling](https://github.com/sSmalKk/exceljs-styling)** — Spreadsheet generation with per-cell control: fonts, fills, borders, alignment, formulas and merged headers
   `exceljs` `nodejs` `spreadsheet` `typescript`
 
-- ✅ **[Time Tracker](https://github.com/sSmalKk/time-tracker)** — Registro de horas trabalhadas, com banco SQLite local
+- ✅ **[Time Tracker](https://github.com/sSmalKk/time-tracker)** — Work-hour logging backed by a local SQLite database
   `cli` `python` `sqlite` `time-tracking`
 
-- ✅ **[Todo MVC MongoDB](https://github.com/sSmalKk/todo-mvc-mongodb)** — API REST de tarefas em arquitetura MVC, com autenticação, seeders, testes e Docker
+- ✅ **[Todo MVC MongoDB](https://github.com/sSmalKk/todo-mvc-mongodb)** — REST API for tasks in MVC architecture, with authentication, seeders, tests and Docker
   `docker` `express` `mongodb` `mvc` `nodejs`
 
-- ✅ **[Text Detector](https://github.com/sSmalKk/text-detector)** — Detecção de texto em imagem
+- ✅ **[Text Detector](https://github.com/sSmalKk/text-detector)** — Text detection from images
   `image-processing` `ocr` `typescript`
 
-- ✅ **[Floating Clock](https://github.com/sSmalKk/floating-clock)** — Relógio de desktop sempre visível, com suporte a fusos horários
+- ✅ **[Floating Clock](https://github.com/sSmalKk/floating-clock)** — Always-on-top desktop clock with timezone support
   `desktop` `python` `timezone` `tkinter`
 
 <h3>Automation & Tooling</h3>
 
-- 🔨 **[Jarvis AI System](https://github.com/sSmalKk/jarvis-ai-system)** — Painel de comando para agentes de automação — sete telas de interface
+- 🔨 **[Jarvis AI System](https://github.com/sSmalKk/jarvis-ai-system)** — Command center for automation agents — seven interface screens
   `agents` `automation` `react` `typescript` `ui`
 
-- 🔨 **[Invoice PDF to Excel](https://github.com/sSmalKk/invoice-pdf-to-excel)** — Extrai faturas e extratos de PDF para Excel e arquiva os documentos por emitente e data
+- 🔨 **[Invoice PDF to Excel](https://github.com/sSmalKk/invoice-pdf-to-excel)** — Pulls invoices and bank statements out of PDF into Excel, then files the documents by issuer and date
   `automation` `etl` `excel` `pandas` `pdf`
 
-- ✅ **[WhatsApp Stock Bot](https://github.com/sSmalKk/whatsapp-stock-bot)** — Controle de estoque por mensagens de WhatsApp, com planilha Excel como fonte da verdade
+- ✅ **[WhatsApp Stock Bot](https://github.com/sSmalKk/whatsapp-stock-bot)** — Inventory control driven by WhatsApp messages, with an Excel workbook as the source of truth
   `automation` `excel` `express` `inventory` `nodejs`
 
 <h3>Games & Mods</h3>
 
-- ✅ **[UNO Online](https://github.com/sSmalKk/uno-online)** — Jogo de UNO com multiplayer online: lobby, código de sala, sala de espera e mesa em tempo real
+- ✅ **[UNO Online](https://github.com/sSmalKk/uno-online)** — UNO card game with online multiplayer: lobby, room codes, waiting room and a live table
   `card-game` `game` `multiplayer` `react` `realtime`
 
-- ✅ **[Minecraft Handcuff Mod](https://github.com/sSmalKk/minecraft-handcuff-mod)** — Mod de algemas para Minecraft, com modelos e animações autorais feitos no Blockbench
+- ✅ **[Minecraft Handcuff Mod](https://github.com/sSmalKk/minecraft-handcuff-mod)** — Handcuff mod for Minecraft, with original models and animations authored in Blockbench
   `blockbench` `forge` `java` `minecraft` `mod`
 
-- 🔨 **[Worldscape Clicker](https://github.com/sSmalKk/worldscape-clicker)** — Clicker cooperativo online com estado autoritativo no servidor e planeta em globo 3D
+- 🔨 **[Worldscape Clicker](https://github.com/sSmalKk/worldscape-clicker)** — Online co-op clicker with authoritative server state and a planet rendered on a 3D globe
   `game` `multiplayer` `react` `realtime` `supabase`
 
 <h3>Fundamentals</h3>
 
-- ✅ **[JavaScript freeCodeCamp](https://github.com/sSmalKk/javascript-freecodecamp)** — Soluções dos desafios de algoritmos e estruturas de dados do freeCodeCamp
+- ✅ **[JavaScript freeCodeCamp](https://github.com/sSmalKk/javascript-freecodecamp)** — Solutions to the freeCodeCamp algorithms and data structures challenges
   `algorithms` `data-structures` `freecodecamp` `javascript`
 
 <h3>Planned</h3>
 
-O escopo é fechado por escrito antes do código existir.
+Scope is closed on paper before the code exists.
 
-- 📄 **[Enterprise API](https://github.com/sSmalKk/enterprise-api)** — Especificação de uma API REST de nível profissional — sem interface, só backend
+- 📄 **[Enterprise API](https://github.com/sSmalKk/enterprise-api)** — Specification for a professional-grade REST API — no interface, backend only
   `fastapi` `nestjs` `openapi` `postgresql` `rest-api`
 
-- 📄 **[Marketplace Fullstack](https://github.com/sSmalKk/marketplace-fullstack)** — Especificação de um marketplace fullstack: catálogo, busca, carrinho, pedidos e administração
+- 📄 **[Marketplace Fullstack](https://github.com/sSmalKk/marketplace-fullstack)** — Specification for a fullstack marketplace: catalog, search, cart, orders and admin
   `marketplace` `nextjs` `postgresql` `typescript`
 
 ---
