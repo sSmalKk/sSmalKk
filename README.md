@@ -72,67 +72,71 @@ Every claim below points to a public repository. Click and read the code.
 
 <h2>Projects</h2>
 
-> **✅ Pronto** — faz o que promete, dá para clonar e rodar.
-> **🔨 Em andamento** — funciona, mas tem escopo declarado em aberto.
-> **📄 Especificação** — o plano está escrito, o código ainda não existe.
+> Esta lista é gerada a partir dos repositórios públicos — descrição e
+> tecnologias vêm do próprio repositório, nunca escritas duas vezes.
+> O mesmo dado alimenta **[dantastec.netlify.app](https://dantastec.netlify.app)**.
+>
+> **✅ Pronto** · **🔨 Em andamento** · **📄 Especificação**
 
 <h3>Applications</h3>
 
-- 🔨 **[Project Operations Dashboard](https://github.com/sSmalKk/project-operations-dashboard)** — collaborative kanban with workspaces, invite links, role-based permissions and templates. Permissions live in the database as Row Level Security, not in a middleware that a direct API call could skip. Ships with a [roadmap](https://github.com/sSmalKk/project-operations-dashboard/blob/main/ROADMAP.md) stating what is done and what is not.
-  `TanStack Start` `React` `TypeScript` `Supabase`
+- ✅ **[Portfolio 3D](https://github.com/sSmalKk/portfolio-3d)** — Portfólio pessoal construído em torno de uma cena 3D, com projetos, blog, sobre e contato
+  `portfolio` `react` `threejs` `typescript` `vite`
 
-- 🔨 **[Worldscape Clicker](https://github.com/sSmalKk/worldscape-clicker)** — online co-op clicker. Shared resources and progression across players, with the server holding authority over state so a client can't invent its own numbers. Planet rendered on a 3D globe.
-  `React` `TypeScript` `Three.js` `Supabase`
-  <sub>Em desenvolvimento ativo — é o projeto em que estou trabalhando agora.</sub>
+- 🔨 **[Project Operations Dashboard](https://github.com/sSmalKk/project-operations-dashboard)** — Kanban colaborativo com workspaces, convites e permissões por papel — permissões vivem no banco como RLS, não num middleware
+  `kanban` `postgresql` `rbac` `react` `rls`
 
-- ✅ **[UNO Online](https://github.com/sSmalKk/uno-online)** — full UNO card game with online multiplayer: lobby, room codes, waiting room and a live table. Turn order, wild cards and draw stacking implemented as real rules, not as UI state.
-  `React` `TypeScript` `Supabase`
+- ✅ **[ExcelJS Styling](https://github.com/sSmalKk/exceljs-styling)** — Geração de planilhas com controle por célula: fonte, preenchimento, bordas, alinhamento, fórmula e merge
+  `exceljs` `nodejs` `spreadsheet` `typescript`
 
-- ✅ **[Portfolio 3D](https://github.com/sSmalKk/portfolio-3d)** — personal portfolio built around a 3D scene, with projects, blog, about and contact.
-  `React` `TypeScript` `Three.js`
+- ✅ **[Time Tracker](https://github.com/sSmalKk/time-tracker)** — Registro de horas trabalhadas, com banco SQLite local
+  `cli` `python` `sqlite` `time-tracking`
 
-- 🔨 **[Jarvis AI System](https://github.com/sSmalKk/jarvis-ai-system)** — command center interface for automation agents.
-  `React` `TypeScript` `Vite`
-  <sub>Falta: as 7 páginas existem como interface, mas não há backend por trás delas — nem README.</sub>
+- ✅ **[Todo MVC MongoDB](https://github.com/sSmalKk/todo-mvc-mongodb)** — API REST de tarefas em arquitetura MVC, com autenticação, seeders, testes e Docker
+  `docker` `express` `mongodb` `mvc` `nodejs`
 
-<h3>Automation &amp; Tooling</h3>
+- ✅ **[Text Detector](https://github.com/sSmalKk/text-detector)** — Detecção de texto em imagem
+  `image-processing` `ocr` `typescript`
 
-- ✅ **[WhatsApp Stock Bot](https://github.com/sSmalKk/whatsapp-stock-bot)** — inventory control driven by WhatsApp messages, with an Excel workbook as the source of truth. Split into message processor, command handler, per-domain executors and a response builder, so adding a command doesn't mean touching the parser.
-  `Node.js` `Express` `whatsapp-web.js`
+- ✅ **[Floating Clock](https://github.com/sSmalKk/floating-clock)** — Relógio de desktop sempre visível, com suporte a fusos horários
+  `desktop` `python` `timezone` `tkinter`
 
-- 🔨 **[Invoice PDF to Excel](https://github.com/sSmalKk/invoice-pdf-to-excel)** — extracts invoices and bank statements from PDF into Excel, and files the documents by issuer and issue date.
-  `Python` `pdfplumber` `PyPDF2` `pandas`
-  <sub>Falta: o nome do arquivo de entrada está fixo no código, e não há README nem `requirements.txt`.</sub>
+<h3>Automation & Tooling</h3>
 
-- ✅ **[ExcelJS Styling](https://github.com/sSmalKk/exceljs-styling)** — spreadsheet generation with per-cell control: fonts, fills, borders, alignment, formulas and merged headers.
-  `TypeScript` `ExcelJS`
+- 🔨 **[Jarvis AI System](https://github.com/sSmalKk/jarvis-ai-system)** — Painel de comando para agentes de automação — sete telas de interface
+  `agents` `automation` `react` `typescript` `ui`
 
-- ✅ **[Floating Clock](https://github.com/sSmalKk/floating-clock)** — always-on-top desktop clock with timezone support.
-  `Python` `tkinter`
+- 🔨 **[Invoice PDF to Excel](https://github.com/sSmalKk/invoice-pdf-to-excel)** — Extrai faturas e extratos de PDF para Excel e arquiva os documentos por emitente e data
+  `automation` `etl` `excel` `pandas` `pdf`
 
-<h3>Games &amp; Mods</h3>
+- ✅ **[WhatsApp Stock Bot](https://github.com/sSmalKk/whatsapp-stock-bot)** — Controle de estoque por mensagens de WhatsApp, com planilha Excel como fonte da verdade
+  `automation` `excel` `express` `inventory` `nodejs`
 
-- ✅ **[Minecraft Handcuff Mod](https://github.com/sSmalKk/minecraft-handcuff-mod)** — handcuff mod with original Blockbench models and animations, item registry and custom renderers.
-  `Java` `Minecraft Forge` `Blockbench`
+<h3>Games & Mods</h3>
+
+- ✅ **[UNO Online](https://github.com/sSmalKk/uno-online)** — Jogo de UNO com multiplayer online: lobby, código de sala, sala de espera e mesa em tempo real
+  `card-game` `game` `multiplayer` `react` `realtime`
+
+- ✅ **[Minecraft Handcuff Mod](https://github.com/sSmalKk/minecraft-handcuff-mod)** — Mod de algemas para Minecraft, com modelos e animações autorais feitos no Blockbench
+  `blockbench` `forge` `java` `minecraft` `mod`
+
+- 🔨 **[Worldscape Clicker](https://github.com/sSmalKk/worldscape-clicker)** — Clicker cooperativo online com estado autoritativo no servidor e planeta em globo 3D
+  `game` `multiplayer` `react` `realtime` `supabase`
 
 <h3>Fundamentals</h3>
 
-- ✅ **[JavaScript freeCodeCamp](https://github.com/sSmalKk/javascript-freecodecamp)** — algorithms, data structures, ES6, regular expressions and OOP challenges.
-  `JavaScript`
+- ✅ **[JavaScript freeCodeCamp](https://github.com/sSmalKk/javascript-freecodecamp)** — Soluções dos desafios de algoritmos e estruturas de dados do freeCodeCamp
+  `algorithms` `data-structures` `freecodecamp` `javascript`
 
----
+<h3>Planned</h3>
 
-<h2>Planned</h2>
+O escopo é fechado por escrito antes do código existir.
 
-Specified before written. The scope is closed on paper first, so these don't
-drift the way earlier attempts did — each repository holds the specification
-and says plainly that the code doesn't exist yet.
+- 📄 **[Enterprise API](https://github.com/sSmalKk/enterprise-api)** — Especificação de uma API REST de nível profissional — sem interface, só backend
+  `fastapi` `nestjs` `openapi` `postgresql` `rest-api`
 
-- 📄 **[Marketplace Fullstack](https://github.com/sSmalKk/marketplace-fullstack)** — catalog, search, cart, orders and admin as one coherent product, over a Service/Repository split.
-  `Next.js` `TypeScript` `NestJS or FastAPI` `PostgreSQL`
-
-- 📄 **[Enterprise API](https://github.com/sSmalKk/enterprise-api)** — backend only. Auth, role-based authorization, pagination and filtering resolved in SQL, transactions, migrations, structured logging, tests in CI, generated OpenAPI.
-  `FastAPI or NestJS` `PostgreSQL` `Docker`
+- 📄 **[Marketplace Fullstack](https://github.com/sSmalKk/marketplace-fullstack)** — Especificação de um marketplace fullstack: catálogo, busca, carrinho, pedidos e administração
+  `marketplace` `nextjs` `postgresql` `typescript`
 
 ---
 
