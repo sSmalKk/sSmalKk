@@ -15,6 +15,7 @@ stay consistent. Core stack: **TypeScript, React, Node.js and Python**.
 | **[Fluxo](https://github.com/sSmalKk/project-operations-dashboard)** — collaborative kanban | Authorization enforced in PostgreSQL: Row Level Security on every table, `SECURITY DEFINER` RPCs, triggers feeding a notification queue, invite links with expiry. |
 | **[WhatsApp Stock Bot](https://github.com/sSmalKk/whatsapp-stock-bot)** — inventory over WhatsApp | Layered command handling (parser, executors, response builder) over an Excel workbook, plus a REST API. |
 | **[UNO Online](https://github.com/sSmalKk/uno-online)** — realtime multiplayer | Game rules as a pure reducer, server-authoritative moves through validated server functions, Supabase Realtime. |
+| **[PDF Invoice Organizer](https://github.com/sSmalKk/pdf-invoice-organizer)** — Python CLI | Files invoice PDFs by issue date and issuer with per-issuer parsing profiles, dry-run mode, tests and CI. |
 
 ## Experience
 
