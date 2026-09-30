@@ -1,48 +1,37 @@
 # Gustavo Dantas Guimarães
 
-**Full-Stack Developer | Backend | Automation | Integrations**
+**Full Stack Developer · Backend, APIs and integrations** — Uberlândia, Brazil
 
-Systems Analysis and Development graduate and Computing technician. I build web systems, APIs, automations and integrations with a focus on business rules, reliable state, maintainability and real-world delivery.
+I build web systems end to end: database, business rules, API and interface.
+I do my best work where the problem lives in the rules rather than on the
+screen: permissions, job queues, third-party integrations and data that has to
+stay consistent. Core stack: **TypeScript, React, Node.js and Python**.
 
-Based in Uberlândia, MG, Brazil.
+## Featured work
 
-## Core stack
+| Project | What it shows |
+| --- | --- |
+| **[Publiva](https://publiva.com.br)** — SaaS in production (private code) | Generates and publishes social media content. Layered API with dependency rules enforced by a test, multi-tenant PostgreSQL, a job queue built on `FOR UPDATE SKIP LOCKED`, Stripe billing, adapters for Instagram, Facebook, LinkedIn, Pinterest and WhatsApp, CI/CD to AWS Lambda via OIDC, decisions recorded as ADRs. |
+| **[Fluxo](https://github.com/sSmalKk/project-operations-dashboard)** — collaborative kanban | Authorization enforced in PostgreSQL: Row Level Security on every table, `SECURITY DEFINER` RPCs, triggers feeding a notification queue, invite links with expiry. |
+| **[WhatsApp Stock Bot](https://github.com/sSmalKk/whatsapp-stock-bot)** — inventory over WhatsApp | Layered command handling (parser, executors, response builder) over an Excel workbook, plus a REST API. |
+| **[UNO Online](https://github.com/sSmalKk/uno-online)** — realtime multiplayer | Game rules as a pure reducer, server-authoritative moves through validated server functions, Supabase Realtime. |
 
-**Frontend**
-React, TypeScript, JavaScript, Next.js, Vite, Material UI, Tailwind CSS, Three.js
+## Experience
 
-**Backend**
-Node.js, Express, Python, Django, FastAPI, Java, Spring Boot
+- **Publiva** (own product) — Full Stack Developer · 2026 – present
+- **Spacetrack Tecnologia** — Developer · Nov 2025 – Jan 2026 · AI assistant on WhatsApp (Evolution API), Python, AWS SQS and S3, Java
+- **Minerva / Didder app** — Full Stack Developer · Oct 2024 – Jun 2025, then on demand · React, Next.js, GraphQL dashboards, Node.js and WhatsApp integration migrated to TypeScript
+- **Acescode** — Developer (freelance) · Feb – Apr 2025 · clinic ERP on Odoo 18
 
-**Data**
-PostgreSQL, MySQL, MongoDB, SQLite
+Technologist degree in Systems Analysis and Development (UNOPAR).
 
-**Integrations and automation**
-REST APIs, GraphQL, Webhooks, WhatsApp integrations, Socket.IO, ExcelJS, PDF/Excel automation
+## Stack
 
-**Platforms and tools**
-Odoo, Docker, Git, GitHub Actions, AWS
+**Core:** TypeScript · JavaScript · React · Node.js · Python  
+**Backend and data:** PostgreSQL · MongoDB · REST · GraphQL · Express · Supabase  
+**Integrations and infrastructure:** Webhooks · WhatsApp (Evolution API, whatsapp-web.js) · AWS (Lambda, S3, SQS) · Docker · GitHub Actions  
+**Also:** Java · Odoo · Next.js · Tailwind CSS · Three.js
 
-## Selected public work
+## Contact
 
-| Project | What it demonstrates |
-|---|---|
-| [Sandboxpedia](https://github.com/sSmalKk/Sandboxpedia) | Interactive platform and game-oriented systems |
-| [Code Wizard Browser Pilot](https://github.com/sSmalKk/code-wizard-browser-pilot) | Browser automation, AI integration, file operations and GitHub workflows |
-| [WhatsApp Bot](https://github.com/sSmalKk/whatsappbot) | Messaging automation, command processing and access control |
-| [Marketplace Backend](https://github.com/sSmalKk/MarketPlaceBackend) | Backend architecture for marketplace systems |
-| [Book Library API](https://github.com/sSmalKk/BookLibraryAPI) | REST API and backend fundamentals |
-| [Chess MMO](https://github.com/sSmalKk/chess-mmo) | Authentication, multiplayer state and full-stack application design |
-
-## Professional experience
-
-I work primarily with production systems, integrations and business applications. Recent work includes Odoo/ERP customization, clinical systems, WhatsApp integrations, dashboards, GraphQL, automation, Python services and full-stack web applications.
-
-Some professional projects are private or client-owned and therefore are not represented by public repositories.
-
-## Links
-
-- Portfolio: https://dantastec.netlify.app
-- LinkedIn: https://www.linkedin.com/in/gustavodantasdev
-- GitHub: https://github.com/sSmalKk
-- Email: dantaswebdesign77@gmail.com
+[Portfolio](https://dantastec.netlify.app) · [LinkedIn](https://www.linkedin.com/in/gustavodantasdev) · dantaswebdesign77@gmail.com
