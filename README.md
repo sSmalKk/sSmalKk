@@ -24,7 +24,7 @@ stay consistent. Core stack: **TypeScript, React, Node.js and Python**.
 - **Minerva / Didder app** — Full Stack Developer · Oct 2024 – Jun 2025, then on demand · React, Next.js, GraphQL dashboards, Node.js and WhatsApp integration migrated to TypeScript
 - **Acescode** — Developer (freelance) · Feb – Apr 2025 · clinic ERP on Odoo 18
 
-Technologist degree in Systems Analysis and Development (UNOPAR).
+Technologist degree in Systems Analysis and Development (UNOPAR) · Computer Technician (CEBRAC, 2019).
 
 ## Stack
 
